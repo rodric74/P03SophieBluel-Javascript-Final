@@ -34,12 +34,15 @@ Ce projet vise à créer une page web dynamique avec JavaScript en utilisant l'A
 - Mise en place d'un formulaire permettant d'ajouter une image pour un projet.
 - Champs pour uploader une image, nommer le projet et choisir une catégorie.
 
-## 🎯 Compétences Évaluées (évaluateur: Amadou Oury Diallo)
+## 🎯 Compétences Évaluées 
+(évaluateur: Amadou Oury Diallo)
 1. **Récupérer les données utilisateurs dans le JavaScript via des formulaires**: Validé ✅
 2. **Manipuler les éléments du DOM avec JavaScript**: Validé ✅
 3. **Gérer les événements utilisateurs avec JavaScript**: Validé ✅
 
-## 🎤 Soutenance (évaluateur: Amadou Oury Diallo)
+## 🎤 Soutenance 
+(évaluateur: Amadou Oury Diallo)
+
 **Points forts**:
 - Toutes les fonctionnalités ont été implémentées.
 - Utilisation de fetch, localStorage, etc.
