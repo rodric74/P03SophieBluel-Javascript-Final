@@ -11,7 +11,6 @@
 ## 📖 À Propos du Projet
 Ce projet vise à créer une page web dynamique avec JavaScript en utilisant l'API fournie. L'objectif est de gérer l'affichage des travaux et de permettre des actions telles que le tri, la connexion, l'édition et la suppression.
 
-https://p06-kasa-react-sass.pages.dev/
 
 ## 🚀 Étapes Clés
 
